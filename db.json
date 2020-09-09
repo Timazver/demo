@@ -1,4 +1,5 @@
-[
+{
+  "posts":[
   {
     "id": 1,
     "image": "https://www.webmastershall.com/wp-content/uploads/2014/11/post-article.png",
@@ -125,3 +126,4 @@
     "body": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt"
   }
   ]
+}
